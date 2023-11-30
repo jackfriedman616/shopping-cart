@@ -1,0 +1,265 @@
+[
+    {
+      "id": 1,
+      "name": "ASUS ROG Maximus XIII Extreme",
+      "description": "A high-end motherboard for Intel processors with support for Wi-Fi 6, Thunderbolt 4, and multiple M.2 and U.2 NVMe SSDs.",
+      "category": "motherboard",
+      "price": 1153.03,
+      "img": [
+        {
+          "link":"https://m.media-amazon.com/images/I/81FD-vyuLaL._AC_SX679_.jpg",
+          "title": "product 1.1"
+        },
+        {
+          "link":"https://m.media-amazon.com/images/I/91Gswx0uBjL._AC_SX425_.jpg",
+          "title": "product 1.2"
+        },
+        {
+          "link":"https://m.media-amazon.com/images/I/816J0g00G1L._AC_SX425_.jpg",
+          "title": "product 1.3"
+        },
+        {
+          "link":"https://m.media-amazon.com/images/I/8184UjPL27L._AC_SX425_.jpg",
+          "title": "product 1.4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Corsair Vengeance RGB Pro RAM 64Gb",
+      "description": "The Corsair Vengeance RGB Pro RAM is a high-performance memory module with RGB lighting. It is available in various capacities and speeds.",
+      "category": "ram",
+      "price": 219.98,
+      "img": [
+        {
+          "link": "https://m.media-amazon.com/images/I/81PIk2a8YZL._AC_SX425_.jpg",
+          "title": "product 2.1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/81JodOP1+GL._AC_SX425_.jpg",
+          "title": "product 2.2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Intel Core i9-11900K Processor",
+      "description": "A high-end desktop processor with 16 cores and 32 threads, suitable for gaming and heavy workloads.",
+      "category": "cpu",
+      "price": 367.79,
+      "img": [
+          {
+              "link":"https://m.media-amazon.com/images/I/41CRV9WijAL._AC_UY218_.jpg",
+              "title":"product 3.1"
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Seasonic PRIME TX-850 Power Supply",
+      "description": "The Seasonic PRIME TX-850 is a high-efficiency power supply with a 850W capacity. It features a full modular design and a silent mode for quiet operation.",
+      "category": "power supply",
+      "price": 129.99,
+      "img": [
+        {
+          "link":"https://m.media-amazon.com/images/I/71vUL0LF1FS._AC_SX425_.jpg",
+          "title":"product 4.1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Logitech G Pro Wireless Gaming Mouse",
+      "description": "The Logitech G Pro Wireless Gaming Mouse is a high-performance wireless gaming mouse with a 16000 DPI sensor. It features a lightweight design and customizable buttons.",
+      "category": "mouse",
+      "price": 149.99,
+      "img": [
+        {
+          "link": "https://m.media-amazon.com/images/I/51ySu55JzAL._AC_SX425_.jpg",
+          "title": "product 5.1"
+        }
+      ]
+    },
+    {
+        "id": 6,
+        "name": "Corsair K95 RGB Platinum XT Keyboard",
+        "description": "The Corsair K95 RGB Platinum XT is a high-end mechanical keyboard with Cherry MX Speed RGB switches. It features a durable aluminum frame and per-key RGB lighting.",
+        "category": "keyboards",
+        "price": 199.99,
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/917gEJoP3gL.__AC_SY300_SX300_QL70_ML2_.jpg",
+                "title":"product 6.1"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sennheiser GSP 600 Gaming Headset",
+        "description": "The Sennheiser GSP 600 is a high-performance gaming headset with a closed-back design. It features a noise-cancelling microphone and 7.1 surround sound.",
+        "category": "headset",
+        "price": 90.99, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/81rsEUtpJTL._AC_SX679_.jpg",
+                "title":"product 7.1"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "AMD Ryzen 9 5950X",
+        "description": "A high-end desktop processor with 16 cores and 32 threads, suitable for gaming and heavy workloads.",
+        "category": "cpu",
+        "price": 469.98, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/616VM20+AzL._AC_UY218_.jpg",
+                "title":"product 8.1"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Intel Core i7-11700K",
+        "description": "A high-end desktop processor with 8 cores and 16 threads, suitable for gaming and moderate workloads.",
+        "category": "cpu",
+        "price": 299.99, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/51ajiHEOsKL._AC_UY218_.jpg",
+                "title":"product 9.1"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "AMD Ryzen 7 5800X",
+        "description": "A high-end desktop processor with 8 cores and 16 threads, suitable for gaming and moderate workloads.",
+        "category": "cpu",
+        "price": 219.84, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/61DYLoyNRWL._AC_UY218_.jpg",
+                "title":"product 10.1"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Intel Core i5-11600K",
+        "description": "A mid-range desktop processor with 6 cores and 12 threads, suitable for gaming and moderate workloads.",
+        "category": "cpu",
+        "price": 219.84, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/51KbX1yFGCL._AC_UY218_.jpg",
+                "title":"product 11.1"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "AMD Ryzen 5 5600X",
+        "description": "A mid-range desktop processor with 6 cores and 12 threads, suitable for gaming and moderate workloads.",
+        "category": "cpu",
+        "price": 158.75, 
+        "img": [
+            {
+                "link":"https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_UY218_.jpg",
+                "title":"product 12.1"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "ASRock Z590 Taichi",
+        "description": "A high-end motherboard for Intel processors with support for Wi-Fi 6, Thunderbolt 4, and multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 269.99, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/81YrnNaeB2L._AC_UY218_.jpg",
+                "title":"product 13.1"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Gigabyte AORUS X570 Master",
+        "description": "A high-end motherboard for AMD processors with support for Wi-Fi 6, Thunderbolt 4, and multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 299.99, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/81f8nbIA-kL._AC_UY218_.jpg",
+                "title":"product 14.1"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "MSI MPG Z590 Gaming Edge WiFi",
+        "description": "A high-end motherboard for Intel processors with support for Wi-Fi 6, Thunderbolt 4, and multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 159.98, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/91uKgJFjUoL._AC_UY218_.jpg",
+                "title":"product 15.1"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "ASUS ROG Strix Z590-E",
+        "description": "A high-end motherboard for Intel processors with support for Wi-Fi 6, Thunderbolt 4, and multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 321.47, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/81Si9SuDMOL._AC_UY218_.jpg",
+                "title":"product 16.1"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "ASRock B450M Pro4",
+        "description": "A budget-friendly motherboard for AMD processors with support for multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 83.63, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/81GqlilboqL._AC_UY218_.jpg",
+                "title":"product 17.1"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gigabyte B450 AORUS Elite",
+        "description": "A budget-friendly motherboard for AMD processors with support for multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 280.92, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/81kcEq5tMNL._AC_UY218_.jpg",
+                "title":"product 18.1"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "MSI B550 TOMAHAWK",
+        "description": "A budget-friendly motherboard for AMD processors with support for multiple M.2 and U.2 NVMe SSDs.",
+        "category": "motherboard",
+        "price": 162.48, 
+        "img": [
+            {
+                "link": "https://m.media-amazon.com/images/I/91wX64okZ7L._AC_UY218_.jpg",
+                "title":"product 19.1"
+            }
+        ]
+    }
+  ]
