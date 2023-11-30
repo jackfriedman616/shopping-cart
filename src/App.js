@@ -3,12 +3,12 @@ import { useState, useEffect } from "react";
 import './styles/variables.css';
 import './styles/index.css';
 
-import Home from "./Components/Home";
-import Nav from "./Components/Nav";
-import Shop from "./Components/Shop";
-import ItemDetail from "./Components/ItemDetail";
-import Checkout from "./Components/Checkout";
-import Footer from "./Components/Footer";
+import Home from "./Components/Home.js";
+import Nav from "./Components/Nav.js";
+import Shop from "./Components/Shop.js";
+import ItemDetail from "./Components/ItemDetail.js";
+import Checkout from "./Components/Checkout.js";
+import Footer from "./Components/Footer.js";
 
 const App = () => {
 
