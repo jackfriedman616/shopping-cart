@@ -5,5 +5,5 @@ resolve: {
       "path": require.resolve("path-browserify"),
       "fs": false;
     }
-  }
+  };
   
