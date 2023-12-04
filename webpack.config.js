@@ -5,10 +5,10 @@ module.exports = {
 // Other rules like entry, output, devserver....,
 plugins: [
     new NodePolyfillPlugin()
-]
+],
 resolve: {
     fallback: {
-      path: require.resolve("path-browserify")
+      path: "false"
     }
   }
 }
