@@ -8,7 +8,7 @@ plugins: [
 ],
 resolve: {
     fallback: {
-      path: "false"
+      "path": false
     }
   }
 }
