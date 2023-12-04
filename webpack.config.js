@@ -1,10 +1,14 @@
 const path = require('path');
 
+const NodePolyfillPlugin = require('node-polyfill-webpack-plugin')
 module.exports = {
-  // Other webpack configuration options...
-  resolve: {
+// Other rules like entry, output, devserver....,
+plugins: [
+    new NodePolyfillPlugin()
+]
+resolve: {
     fallback: {
-      "path": require.resolve("path-browserify")
+      path: require.resolve("path-browserify")
     }
   }
 }
