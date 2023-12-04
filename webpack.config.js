@@ -1,9 +1,12 @@
-import path from 'path';
+const path = require('path');
 
-export const resolve = {
-  fallback: {
-    "path": require.resolve("path-browserify")
+module.exports = {
+  // Other webpack configuration options...
+  resolve: {
+    fallback: {
+      "path": require.resolve("path-browserify")
+    }
   }
-};
+}
 
   
