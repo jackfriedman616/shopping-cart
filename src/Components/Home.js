@@ -4,8 +4,7 @@ import { transformSync } from '@babel/core';
 
 const Home = () => {
   return (
-    <div className='home-container' style={{
-      backgroundImage: `url(${process.env.PUBLIC_URL + '"C:\Users\jackf\OneDrive\Pictures\Saved Pictures\space.jpg"'})`, 
+    <div className='home-container' style={{ 
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
       backgroundPosition: 'bottom'
