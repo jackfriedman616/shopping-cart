@@ -123,7 +123,7 @@ const Nav = ({ isMobile, basketCount, basket, addToBasket, removeFromBasket }) =
 
                   {/* Total */}
                   <div className="total mb-2">
-                    Total: £<span>{total}</span>
+                    Total: $<span>{total}</span>
                   </div>
 
                   {/* checkout button */}
